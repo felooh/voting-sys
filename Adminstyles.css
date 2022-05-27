@@ -1,0 +1,32 @@
+#navbar{
+    background-color:rgb(179, 49, 2) ;
+    padding: 3px;
+    text-align: right;
+    margin-left: -80%;
+    margin-right: -75%;
+}
+#navbar a{
+    padding: 15px 14px;
+    color: blue;
+    background-color: white;
+}
+#tittle{
+    text-align:justify;
+    text-decoration: none;
+    position: fixed;
+    color:black;
+    text-decoration: black;
+}
+.form{
+   margin-top: 30%;
+
+
+}
+body{
+    margin:4px;
+    background-image: url('./images/background.jpg');
+    margin-left: 30%;
+    margin-right: 30%;
+    background-repeat: no-repeat;
+    background-size: 100% 165%;
+}
