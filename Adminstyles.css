@@ -10,6 +10,25 @@
     color: blue;
     background-color: white;
 }
+
+#navbar ul{
+    list-style: none;
+    text-align: right;
+    }
+    
+    
+    #navbar li{
+        display: inline;
+        
+    }
+    
+    
+    #navbar a{
+        text-decoration: none;
+        font-size: 19px;
+        background-color: beige;
+        padding: 15px 14px;
+    }
 #tittle{
     text-align:justify;
     text-decoration: none;
